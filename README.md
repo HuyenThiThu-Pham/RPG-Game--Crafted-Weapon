@@ -1,4 +1,4 @@
-# OOP-COMP1046
+# RPG- crafting system
 Object Oriented Programming
 This project involves creating an RPG-like crafting system, allowing users to craft weapons and enchantments. We'll work with predefined material classes, design the Workshop, Forge, and Enchanter classes, and implement methods for crafting, disassembling, and displaying inventories.
 
