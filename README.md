@@ -1,10 +1,11 @@
 # RPG- crafting system
-Object Oriented Programming
+Object Oriented Programming.
+
 This project involves creating an RPG-like crafting system, allowing users to craft weapons and enchantments. We'll work with predefined material classes, design the Workshop, Forge, and Enchanter classes, and implement methods for crafting, disassembling, and displaying inventories.
 
 ## Materials:
 
-Materials are provided in a hierarchy of classes, including Wood, Metal, and Gemstone. They have attributes used in crafting algorithms but don't require modification.
+Materials are provided in a hierarchy of classes, including Wood, Metal, and Gemstone. They have attributes used in crafting algorithms.
 
 ## Workshop:
 
